@@ -1,2 +1,5 @@
 /myenv/
 /.idea/
+/.env/
+/testing/allure-report/
+/testing/result/
